@@ -6,9 +6,9 @@
     <span>Carolini Paiva</span>
 </h1>
 
-<p align="justify"> from Praia Grande-SP, Brazil, degree in System Analysis and Development.  
+<p align="justify"> From Praia Grande, SP - Brazil, a business analyst with a degree in Systems Analysis and Development, learning and exploring the world of programming.
 <br>
- Passionate about photography and Wanessa, some of my hobbies are games, watching series and movies.
+
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)

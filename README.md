@@ -27,9 +27,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caahpaiva&theme=omni&hide_border=false"  width="400px" />
 
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=caahpaiva&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=caahpaiva&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <details align="left">
   <summary></summary> 
